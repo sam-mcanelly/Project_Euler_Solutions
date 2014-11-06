@@ -1,2 +1,2 @@
-Project_Eueler_Solutions
+Project_Euler_Solutions
 ========================

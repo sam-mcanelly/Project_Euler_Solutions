@@ -5,7 +5,7 @@ import java.util.Arrays;
  *
  * @author Sam McAnelly
  * CWID: 11533007
- * Project Euler Problem 1
+ * Project Euler Problem 11
  * Largest product in a series
  * This is similar to Problem 8, but hopefully the solution is much more elegant and modular
  */
